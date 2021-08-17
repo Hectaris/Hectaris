@@ -20,6 +20,8 @@ I'd like to hear about your multimedia projects idea to help you building it ! �
 
 📫 How to reach me: Adriendumont.fr for my portfolio or Hectaris.fr to see my different links
 
+🇫🇷 French 🍷🥖
+
 😄 Pronouns: He/Him
 
 <br>
