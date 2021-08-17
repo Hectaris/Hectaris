@@ -22,7 +22,5 @@ I'd like to hear about your multimedia projects idea to help you building it ! �
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: The only women with a win in a world class Motorsport championship is the french driver Michelle Mouton. She was driving a storming Audi Quattro in the Group B championship..... And it isn't coding related at all !
-
 <br>
 Have a great day !
