@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello stranger 👋
 
-<!--
-**Hectaris/Hectaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+You are currently on my Github page
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+You'll find multiple repositories I am currently working on.
+
+I'd like to hear about your multimedia projects idea to help you building it ! 🏢
+
+<br>
+
+
+🔭 I’m currently working on my Linktree-like website
+
+🌱 I’m currently learning React
+
+💬 Ask me about sport im a nerd 'bout it 🤓
+
+📫 How to reach me: Adriendumont.fr for my portfolio or Hectaris.fr to see my different links
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: The only women with a win in a world class Motorsport championship is the french driver Michelle Mouton. She was driving a storming Audi Quattro in the Group B championship..... And it isn't coding related at all !
+
+<br>
+Have a great day !
